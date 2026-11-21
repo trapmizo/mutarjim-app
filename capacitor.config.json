@@ -1,0 +1,8 @@
+{
+  "appId": "com.mutarjim.app",
+  "appName": "المترجم",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
